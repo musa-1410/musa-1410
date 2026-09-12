@@ -29,3 +29,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=musa-1410&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=musa-1410&theme=tokyonight&hide_border=true" width="48%" />
 </div>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musa-1410/musa-1410/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musa-1410/musa-1410/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/musa-1410/musa-1410/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
